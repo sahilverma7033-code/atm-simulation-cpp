@@ -1,4 +1,4 @@
-# ATM Simulation in C++ 🏧
+# ATM Simulation in C++ 
 
 A simple ATM project made using C++.
 
@@ -13,4 +13,3 @@ A simple ATM project made using C++.
 - Conditions
 - Switch Case
 
-Made by Sahil 🚀
